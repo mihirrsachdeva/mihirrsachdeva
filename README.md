@@ -5,7 +5,7 @@
       Processing, Data Optimization and more!
 - 🤝 I’m looking to collaborate on projects that involve game development, big data analytics, fashion tech and project management. 
 - 📂 My Tableau public profile - https://public.tableau.com/app/profile/mihir.sachdeva
-- 
+
  ------------------------------------------------------------------------------------------------------------------
 | End Date      | Course                      | University                         |  Location                     |
 | ------------- |-----------------------------| -----------------------------------| ------------------------------|
@@ -17,15 +17,16 @@
  ------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me?
+   <br>
   [<img  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
   &nbsp;
   [<img  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" height="48"   style="background-color:white;">][instagram]
   &nbsp;
   [<img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" height="48"   style="background-color:white;">][email]
   
-[instagram]:  https://www.instagram.com/mihirrsachdeva/
-[linkedin]:   https://www.linkedin.com/in/mihirsachdeva28/
-[email]:      mihir.sachdeva28@gmail.com
+[instagram]:  https://www.linkedin.com/in/mihirsachdeva28/
+[linkedin]:  https://www.instagram.com/mihirrsachdeva/
+[email]:  mihir.sachdeva28@gmail.com
 
 <!---
 mihirrsachdeva/mihirrsachdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
