@@ -24,9 +24,9 @@
   &nbsp;
   [<img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" height="48"   style="background-color:white;">][email]
   
-[instagram]:  https://www.linkedin.com/in/mihirsachdeva28/
-[linkedin]:  https://www.instagram.com/mihirrsachdeva/
-[email]:  mihir.sachdeva28@gmail.com
+[linkedin]:  https://www.linkedin.com/in/mihirsachdeva28/
+[instagram]:  https://www.instagram.com/mihirrsachdeva/
+[email]:  mailto:mihir.sachdeva28@gmail.com
 
 <!---
 mihirrsachdeva/mihirrsachdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
