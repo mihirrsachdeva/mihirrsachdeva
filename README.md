@@ -4,17 +4,28 @@
       Data Visualization with Tableau as my subjects so far. My next semester includes courses like Data Science: R, MySQL, Text Analytics and Natural Language 
       Processing, Data Optimization and more!
 - 🤝 I’m looking to collaborate on projects that involve game development, big data analytics, fashion tech and project management. 
-- 📫 How to reach me? 
-     Email - mihir.sachdeva28@gmail.com
-     Linkedin - https://www.linkedin.com/in/mihirsachdeva28/
 - 📂 My Tableau public profile - https://public.tableau.com/app/profile/mihir.sachdeva
+- 
+ ------------------------------------------------------------------------------------------------------------------
+| End Date      | Course                      | University                         |  Location                     |
+| ------------- |-----------------------------| -----------------------------------| ------------------------------|
+| 2017          | IBDP                        | Goldcrest International School     |  Navi Mumbai (IN)             |
+| 2020          | BBA. Retailing              | Jaipur National University (SODEL) |  Jaipur (IN)                  |
+| 2021          | BSc. Banking and Finance    | University of London (IP)          |  London (UK)                  |
+| Expected 2022 | Business Analytics          | Hult International Business School |  Boston (US)                  |
+| Expected 2023 | Marketing                   | Hult International Business School |  Boston (US)                  |
+ ------------------------------------------------------------------------------------------------------------------
 
-| End Date      | Course                      | University                  |  Location                     |
-| ------------- |-----------------------------| ----------------------------| ------------------------------|
-| 2016          | Computer Science Diploma    | ITIS G Marconi, High School |    Jesi (AN), Italy           |
-| 2019          | Business Administration     | Bocconi University          |    Milan (MI), Italy          |
-| 2021          | Business Analytics          |   Hult University           |    Boston (MA), United States |
-| Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
+- 📫 How to reach me?
+  [<img  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  &nbsp;
+  [<img  src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48" height="48"   style="background-color:white;">][instagram]
+  &nbsp;
+  [<img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" height="48"   style="background-color:white;">][email]
+  
+[instagram]:  https://www.instagram.com/mihirrsachdeva/
+[linkedin]:   https://www.linkedin.com/in/mihirsachdeva28/
+[email]:      mihir.sachdeva28@gmail.com
 
 <!---
 mihirrsachdeva/mihirrsachdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
