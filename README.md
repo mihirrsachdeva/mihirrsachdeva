@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Mihir Sachdeva
+- 👋 Hi, I’m Mihir Sachdeva!
 - ✨ I’m interested in designing data models and making management decisions to make businesses more sustainable. 
 - 🌱 I’m currently pursuing my Masters in Business Analytics where im exposed to data analytics, machine learning, supervised and unsupervised algorithms, and
       Data Visualization with Tableau as my subjects so far. My next semester includes courses like Data Science: R, MySQL, Text Analytics and Natural Language 
       Processing, Data Optimization and more!
 - 🤝 I’m looking to collaborate on projects that involve game development, big data analytics, fashion tech and project management. 
+- 💬 I love gaming, making YouTube videos and cinematic b-rolls, and 
+- 😄 Pronouns: he/him
 - 📂 My Tableau public profile - https://public.tableau.com/app/profile/mihir.sachdeva
 
  ------------------------------------------------------------------------------------------------------------------
