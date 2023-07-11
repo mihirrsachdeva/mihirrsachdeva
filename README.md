@@ -14,8 +14,8 @@
 | 2017          | IBDP                        | Goldcrest International School     |  Navi Mumbai (IN)             |
 | 2020          | BBA. Retailing              | Jaipur National University (SODEL) |  Jaipur (IN)                  |
 | 2021          | BSc. Banking and Finance    | University of London (IP)          |  London (UK)                  |
-| Expected 2022 | MSc. Business Analytics     | Hult International Business School |  Boston (US)                  |
-| Expected 2023 | MS. International Marketing | Hult International Business School |  Boston (US)                  |
+| 2022          | MSc. Business Analytics     | Hult International Business School |  Boston (US)                  |
+| 2023          | MS. International Marketing | Hult International Business School |  Boston (US)                  |
  ------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me?
